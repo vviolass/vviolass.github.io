@@ -5,7 +5,7 @@
 
 #### Education
 **Beihang University (BUAA)**, B.E. in Computer Science and Technology (2023 – Present)
-- GPA: XX/4.0 *(optional)*
+- GPA: 3.8/4.0 
 - Relevant Coursework: Data Structures, Computer Networks, Operating Systems, Machine Learning
 
 
